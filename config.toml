@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://www.dexwood.dev/"
 
 [module]
 [module.hugoVersion]
